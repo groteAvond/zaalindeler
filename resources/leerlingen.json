@@ -1,0 +1,52 @@
+[
+    {
+        "student": "100001",
+        "departmentOfBranch": 1900,
+        "mentorGroup": 15500,
+        "mainGroup": 15500,
+        "firstName": "Sample",
+        "lastName": "Student1",
+        "mainGroupName": "s1a",
+        "prefix": ""
+    },
+    {
+        "student": "100002",
+        "departmentOfBranch": 1901,
+        "mentorGroup": 15501,
+        "mainGroup": 15501,
+        "firstName": "Example",
+        "lastName": "Student2",
+        "mainGroupName": "s2b",
+        "prefix": ""
+    },
+    {
+        "student": "100003",
+        "departmentOfBranch": 1902,
+        "mentorGroup": 15502,
+        "mainGroup": 15502,
+        "firstName": "Demo",
+        "lastName": "Student3",
+        "mainGroupName": "s3c",
+        "prefix": ""
+    },
+    {
+        "student": "100004",
+        "departmentOfBranch": 1903,
+        "mentorGroup": 15503,
+        "mainGroup": 15503,
+        "firstName": "Test",
+        "lastName": "Student4",
+        "mainGroupName": "s4d",
+        "prefix": ""
+    },
+    {
+        "student": "100005",
+        "departmentOfBranch": 1904,
+        "mentorGroup": 15504,
+        "mainGroup": 15504,
+        "firstName": "Mock",
+        "lastName": "Student5",
+        "mainGroupName": "s5e",
+        "prefix": ""
+    }
+]
